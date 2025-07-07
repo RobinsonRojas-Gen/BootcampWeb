@@ -35,8 +35,8 @@ Actividad introductoria
    - ✍️ A mano (luego tomarle foto o escanearlo)
    - �� Usando una IA (pídele el diagrama en formato `mermaid`)
    - �� Con la web https://mermaid.live (pégalo y visualízalo)
-     https://mermaid.live/edit#pako:eNp1kEtu20AMhq9CcNUCiiEplvVYFIjlJsgu6GNTKQtaou1BNDMuJSVpbZ8qR-jFOrISI0GQ2cwM-f3kT-6wsjVjhqvGPlQbkg5-LEoD7lwVP9ueRNlbODv7Avtr07FQ1fW0h4sRuSguxbqwqY-MQ9bCrYWaoabOth6okwgqa4AbmFN15wR7mH96fn4ei83HNt_Zkbo3qholDcGSWj7V3EO-m78OHEZ5fpQvilyYxsToO3-d_lrkpJfqY-Cy-Ma653v-kBgM8mMnxIM141hyU66saKrUvycDG3fT20lH4Q21NGje0NTAyw5hS0LQsoC2rWtQD4t-3r3eitI8Er97flemdUMLV2qpBtXVYBg9XIuqMeukZw81O3j44m7IlthtWHOJmXvWJHcllubgNFsyv6zVLzKx_XqD2Yqa1v36rVsLLxSthfQpKs48S25702EWREl8rILZDh8xO0_jSRrH_jTx02AWxaGHfzCbpZMkjILpNJylYRKeJwcP_x7b-pM4cnAYRWnoTwM_mB3-A8Yr11w
      ![image](https://github.com/user-attachments/assets/2f95e985-13b8-43a0-a0e2-5e6a776c5501)
+     https://mermaid.live/edit#pako:eNp1kEtu20AMhq9CcNUCiiEplvVYFIjlJsgu6GNTKQtaou1BNDMuJSVpbZ8qR-jFOrISI0GQ2cwM-f3kT-6wsjVjhqvGPlQbkg5-LEoD7lwVP9ueRNlbODv7Avtr07FQ1fW0h4sRuSguxbqwqY-MQ9bCrYWaoabOth6okwgqa4AbmFN15wR7mH96fn4ei83HNt_Zkbo3qholDcGSWj7V3EO-m78OHEZ5fpQvilyYxsToO3-d_lrkpJfqY-Cy-Ma653v-kBgM8mMnxIM141hyU66saKrUvycDG3fT20lH4Q21NGje0NTAyw5hS0LQsoC2rWtQD4t-3r3eitI8Er97flemdUMLV2qpBtXVYBg9XIuqMeukZw81O3j44m7IlthtWHOJmXvWJHcllubgNFsyv6zVLzKx_XqD2Yqa1v36rVsLLxSthfQpKs48S25702EWREl8rILZDh8xO0_jSRrH_jTx02AWxaGHfzCbpZMkjILpNJylYRKeJwcP_x7b-pM4cnAYRWnoTwM_mB3-A8Yr11w
 
 
 ---
@@ -58,7 +58,10 @@ Actividad introductoria
 3. Abre una web (ej: google.com), inspecciona y captura:
    - Una solicitud HTTP
    - Un error en consola (si aparece)
+     ![image](https://github.com/user-attachments/assets/208824be-055b-49cc-b4fe-8cdc0863e082)
    - El HTML de un elemento
+     ![image](https://github.com/user-attachments/assets/c69a0b66-86ac-4699-98c3-93909b2d2cf3)
+
 
 ---
 
@@ -69,8 +72,11 @@ Actividad introductoria
 **�� Instrucciones:**
 1. Investiga:
    - ¿Qué hace **HTML** en una web?
+     Ayuda a desplegar información en una web.
    - ¿Para qué sirve **CSS**?
+     Permite generar el diseño visual de páginas web, así como interfaces de usuario.
    - ¿Qué aporta **JavaScript**?
+     Ayuda a desplegar información de forma más dinámica e interactiva, en tiempos cortos
 2. Compara Java y JavaScript brevemente: ¿en qué se parecen y en qué se diferencian?
 3. Redacta un pequeño README explicando estas tecnologías con tus propias palabras.
    - Puedes incluir ejemplos o mini bloques de código si lo deseas.
