@@ -58,8 +58,11 @@ Actividad introductoria
 3. Abre una web (ej: google.com), inspecciona y captura:
    - Una solicitud HTTP
    - Un error en consola (si aparece)
+     
      ![image](https://github.com/user-attachments/assets/208824be-055b-49cc-b4fe-8cdc0863e082)
+     
    - El HTML de un elemento
+     
      ![image](https://github.com/user-attachments/assets/c69a0b66-86ac-4699-98c3-93909b2d2cf3)
 
 
@@ -78,5 +81,6 @@ Actividad introductoria
    - ¿Qué aporta **JavaScript**?
      Ayuda a desplegar información de forma más dinámica e interactiva, en tiempos cortos
 2. Compara Java y JavaScript brevemente: ¿en qué se parecen y en qué se diferencian?
+   En breve Java y Javascript parecen ser similares solamente en el nombre, ya que uno es un lenguaje basado en programación orientada a objetos, y el otro una herramienta para hacer las páginas web más dinámicas y responsivas.
 3. Redacta un pequeño README explicando estas tecnologías con tus propias palabras.
    - Puedes incluir ejemplos o mini bloques de código si lo deseas.
